@@ -19,7 +19,6 @@ public class allZerosAtTheEnd {
 	 }
 	 for(int i = 0 ; i < b.length;i++)	{
 	 System.out.print(b[i]+ " ");
-	 System.out.println("testing");
 	 }
 
 }
